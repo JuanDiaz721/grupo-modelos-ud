@@ -2,7 +2,7 @@
 
 **Universidad Distrital Francisco José de Caldas**
 
-# 👥 Integrandes
+# 👥 Integrantes
 
 	-Nicolás Martínez Pineda
 	-Juan Pablo Diaz Ricaurte
