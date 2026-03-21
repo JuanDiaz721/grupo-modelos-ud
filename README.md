@@ -4,9 +4,9 @@
 
 # 👥 Integrandes
 
-Nicolás Martínez Pineda
-Juan Pablo Diaz Ricaurte
-Miguel Angel Hernandez Medina
+	-Nicolás Martínez Pineda
+	-Juan Pablo Diaz Ricaurte
+	-Miguel Angel Hernandez Medina
 
 ---
 
