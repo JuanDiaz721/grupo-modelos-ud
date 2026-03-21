@@ -13,6 +13,7 @@
 ## 📌 Descripción
 
 Este repositorio reúne los entregables de la situación propuesta en el aula de clase, el cual es un modelo de programación orientada a objetos (POO) diseñado para gestionar la logística de la organización de una agrupación musical en un evento.
+
 ---
 
 ## 📚 Contenido
