@@ -1,18 +1,24 @@
-# 📐 Modelos de Programación
+# 📐 Modelos de Programación 020-85
 
 **Universidad Distrital Francisco José de Caldas**
+
+# 👥 Integrandes
+
+Nicolás Martínez Pineda
+Juan Pablo Diaz Ricaurte
+Miguel Angel Hernandez Medina
 
 ---
 
 ## 📌 Descripción
 
-Este repositorio reúne los talleres y ejercicios desarrollados a lo largo de la asignatura **Modelos de Programación**. El objetivo es documentar el proceso de aprendizaje del equipo, consolidar las soluciones trabajadas en clase y mantener un historial organizado del trabajo académico.
+Este repositorio reúne los entregables del trabajo propuesto en el aula de clase, el cual es un modelo de programación orientada a objetos (POO) diseñado para gestionar la logística de agrupaciones musicales, sus integrantes y la organización del evento.
 
 ---
 
 ## 📚 Contenido
 
-El repositorio está organizado por talleres y ejercicios, abarcando los siguientes temas:
+El repositorio se actualizará a medida que se vaya perfeccionando el modelo, abarcando los siguientes temas:
 
 - **Patrones de diseño de software** — Implementación y análisis de patrones creacionales, estructurales y de comportamiento (GoF y otros).
 - **Arquitectura de software** — Estudio de estilos arquitectónicos, decisiones de diseño y modelado de sistemas.
@@ -21,28 +27,10 @@ El repositorio está organizado por talleres y ejercicios, abarcando los siguien
 
 ---
 
-## 🗂️ Estructura del repositorio
-
-```
-/
-├── talleres/
-│   ├── taller-01/
-│   ├── taller-02/
-│   └── ...
-├── actividades/
-│   ├── actividad-01/
-│   ├── actividad-02/
-│   └── ...
-└── README.md
-```
-
-> La estructura puede actualizarse a medida que avance el semestre.
-
----
 
 ## 🛠️ Tecnologías utilizadas
 
-Las tecnologías y lenguajes empleados pueden variar según el taller. Se documentarán en cada carpeta según corresponda.
+Las tecnologías y lenguajes empleados Se documentarán en cada carpeta según corresponda.
 
 ---
 
